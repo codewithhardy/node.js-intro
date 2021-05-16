@@ -1,0 +1,49 @@
+day 1- Introduction to Node.js
+
+What is Node.js ?
+-> Nodejs is open source, cross platform runtime environment for developing server side and networking application 
+server means middleware 
+What is client server architecture ? 
+-> its a computing model, where server hosts, distribute and controls the mejority of the resources as well as services to used by the client, 
+-> Such structural designs are made up of one or more client systems connected to main servers through a network(internet-connections) 
+
+Three tire arc.
+
+Client -> Browser/Mobile apps
+    HTML/css/JavaScript 
+
+server - Middleware (req/res)
+    Java/.Net/C++/PHP/Nodejs
+
+Backend - persistant layr
+    oracle, mysql/sql/sql server/ MongoDB/Cassandra
+
+What is Module
+-------------- 
+Module is a functionality which is organized in single or multiple javascript file and can be reused throughout the nodejs application
+
+Types of Module
+--------------
+1.Core modules : these are the modules which are in-built and you can use without any installation 
+
+2. npm : these include a group of modules or packages, developed by other developers,which can be used in your application by installing them 
+
+3. User defined modules : These are the modules which are created by you, which you want to reuse in rest of your application
+
+Core modules
+------------
+1.fs : it handles the file systems
+2.path : it handles the file systems
+3.buffer: it handles the binary data
+4.http: it makes node.js act like an http server
+5.url: it parses the URL strings 
+6.util: it is used to access the utility function 
+7.Os : it gets information about the os 
+
+why to go for NPM ?
+-------------------
+you have to write your own codes.
+write test cases for it to make sure there are no edge cases
+maintain codes as node progresses over time.
+
+

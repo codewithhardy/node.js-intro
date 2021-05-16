@@ -1,0 +1,13 @@
+[
+    {
+        "name":"Hardik",
+        "age" : 25,
+        "occupation": "businessman"
+    }
+
+    ,
+    {
+        "parsonalty":"dynamic",
+        "pasionate":"GYM - body building/ Photography"
+    }
+]
